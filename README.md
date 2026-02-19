@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://wakatime.com/@a555dfef-8ef2-45f6-bf70-ad743a440e89"><img src="https://wakatime.com/badge/user/a555dfef-8ef2-45f6-bf70-ad743a440e89.svg" alt="Total time coded since Feb 17 2026" /></a>
+
 <!--
 **tashev-code/tashev-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
